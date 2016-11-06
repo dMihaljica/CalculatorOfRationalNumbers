@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RationalNumber", "RationalNumber", "{71463E4B-0C2C-4352-B11B-A9575A3A28D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbersExample", "RationalNumbersExample\RationalNumbersExample.csproj", "{1977D701-BE54-4B2B-88AD-B8F37083446A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbersLibrary", "RationalNumbersLibrary\RationalNumbersLibrary.csproj", "{167B5F76-597E-427E-BAAA-5E5E20AFB9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1977D701-BE54-4B2B-88AD-B8F37083446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1977D701-BE54-4B2B-88AD-B8F37083446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1977D701-BE54-4B2B-88AD-B8F37083446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1977D701-BE54-4B2B-88AD-B8F37083446A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167B5F76-597E-427E-BAAA-5E5E20AFB9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167B5F76-597E-427E-BAAA-5E5E20AFB9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167B5F76-597E-427E-BAAA-5E5E20AFB9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167B5F76-597E-427E-BAAA-5E5E20AFB9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1977D701-BE54-4B2B-88AD-B8F37083446A} = {71463E4B-0C2C-4352-B11B-A9575A3A28D3}
+		{167B5F76-597E-427E-BAAA-5E5E20AFB9D7} = {71463E4B-0C2C-4352-B11B-A9575A3A28D3}
+	EndGlobalSection
+EndGlobal
